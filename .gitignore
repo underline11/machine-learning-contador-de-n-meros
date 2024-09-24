@@ -1,0 +1,26 @@
+# Ignorar ambientes virtuais do Python
+venv/
+.env/
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar configurações de IDEs (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Ignorar arquivos de backup temporários
+*.swp
+*.swo
+*.bak
+
+# Ignorar arquivos de sistema do macOS
+.DS_Store
+
+# Ignorar arquivos de sistema do Windows
+Thumbs.db
+desktop.ini
