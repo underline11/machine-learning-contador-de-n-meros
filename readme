@@ -1,0 +1,15 @@
+# Contador de Números
+
+Este projeto é uma aplicação simples em Python que realiza a contagem de números com base nos valores fornecidos pelo usuário. O usuário define o valor inicial, o valor final e o valor de incremento ou decremento. O programa, então, exibe a sequência de números contados de acordo com os parâmetros escolhidos.
+
+## Funcionalidades
+
+- Solicita um valor inicial, valor final e incremento ou decremento.
+- Realiza a contagem dos números dentro do intervalo fornecido.
+- Exibe os números contados no console.
+
+## Como usar
+
+1. Clone o repositório para sua máquina local:
+   
+   git clone https://github.com/seuusuario/contador-de-numeros.git
