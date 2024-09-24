@@ -1,0 +1,7 @@
+Contador de Números
+Neste projeto, o objetivo é criar uma aplicação em Python que conte os números dentro de um intervalo fornecido pelo usuário. O programa solicitará ao usuário um valor inicial, um valor final e um valor de incremento (ou decremento). Ele exibirá todos os números dentro do intervalo escolhido com base nos parâmetros fornecidos.
+
+Funcionalidades:
+Entrada do valor inicial e final do intervalo.
+Entrada de um valor de incremento (positivo) ou decremento (negativo).
+Exibição dos números do intervalo com base nas escolhas do usuário
